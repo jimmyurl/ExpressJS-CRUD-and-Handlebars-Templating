@@ -7,5 +7,9 @@ API calls are made using various HTTP methods (POST, GET, PUT, DELETE) to perfor
 
 Handlebars Templating:
 Handlebars, a JavaScript templating engine, is used to dynamically generate HTML content based on the data from the API.
+
+![handlebars](https://github.com/jimmyurl/ExpressJS-CRUD-and-Handlebars-Templating/assets/33938444/2c63ad85-c59f-4749-a71f-afba5d85f8b5)
+
+
 ![postman1](https://github.com/jimmyurl/ExpressJS-CRUD-and-Handlebars-Templating/assets/33938444/2113a8e0-237d-4970-b9da-888a13570faa)
-![handlebars](https://github.com/jimmyurl/ExpressJS-CRUD-and-Handlebars-Templating/assets/33938444/820623c8-e9e9-4426-8ead-fde66e996bfd)
+
