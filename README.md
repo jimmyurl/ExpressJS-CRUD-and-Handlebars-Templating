@@ -1,5 +1,5 @@
 # ExpressJS-CRUD-and-Handlebars-Templating
-Designed using Expressjs framework without any database has a web application that interacts with an API to perform CRUD operations on NBA players. The integration of Handlebars templating allows to create dynamic content for displaying and manipulating the data within the user interface. The project's use of Bootstrap ensures a visually appealing and responsive design.
+This app is designed using Expressjs framework without any database has a web application that interacts with an API to perform CRUD operations on NBA players. The integration of Handlebars templating allows to create dynamic content for displaying and manipulating the data within the user interface. The project's use of Bootstrap ensures a visually appealing and responsive design.
 
 API Integration:
 The project integrates with an API, which presumably provides endpoints for handling CRUD operations on player data.
